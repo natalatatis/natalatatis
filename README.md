@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Natalia</h1>
-<h3 align="center">a developer from Guatemala</h3>
+<h3 align="center">a wannabe developer from Guatemala</h3>
 
-- 🌱 I’m currently learning **React!**
+- Currently working on  **Webdev!**
 
-- I can program basic things for the STM32F303K8 **(Not my area of interest though)**
+- Also learning about **Operating Systems**
 
 - ⚡ Fun fact **I solve Rubik's cubes!**
 
