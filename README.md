@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Natalia</h1>
-<h3 align="center">a wannabe developer from Guatemala</h3>
+<h3 align="center">a wannabe web developer</h3>
 
-- Currently working on  **Webdev!**
+- Currently working on **Webdev!**
 
 - Also learning about **Operating Systems**
 
